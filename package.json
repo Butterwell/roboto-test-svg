@@ -1,0 +1,33 @@
+{
+  "name": "@butterwell/roboto-test-svg",
+  "version": "0.0.1",
+  "description": "Some SVG outlines from Roboto Medium for testing",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "svg",
+    "font"
+  ],
+  "author": "Christopher Michael Buck",
+  "readme": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Butterwell/roboto-test-svg.git"
+  },
+  "homepage": "https://github.io/Butterwell/roboto-test-svg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildTools": "tsc generate/generate.ts --target es6 --moduleResolution node --module commonjs",
+    "buildDict": "node generate/generate.js",
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.44",
+    "@types/opentype.js": "^1.3.3",
+    "node-fetch": "2.6.1",
+    "opentype.js": "^1.3.4",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {}
+}

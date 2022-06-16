@@ -1,0 +1,5 @@
+node_modules
+dist
+generate/generate.js
+generate/generate.js.map
+generate/generate.d.ts
