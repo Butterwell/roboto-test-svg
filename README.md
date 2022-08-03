@@ -6,4 +6,6 @@ const dict = {
     "G": "<path d=\"M...,
     "a": "<path d=\"M...,
     "g": "<path d=\"M...,
+    ...
 }
+With the characer set: 'AaGgOoXx.:8R'

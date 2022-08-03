@@ -1,6 +1,6 @@
 {
   "name": "@butterwell/roboto-test-svg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some SVG outlines from Roboto Medium for testing",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

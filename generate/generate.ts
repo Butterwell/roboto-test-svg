@@ -51,4 +51,4 @@ export function generateJson(selection: string, filename: string) {
   svgsForRoboto(characters, writeJSON)
 }
 
-generateJson('AaGg', 'src/index.ts')
+generateJson('AaGgOoXx.:8R', 'src/index.ts')
